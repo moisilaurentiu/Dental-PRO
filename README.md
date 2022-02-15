@@ -8,3 +8,4 @@ Slider:
 Modal window:
 ![image](https://user-images.githubusercontent.com/94526883/153756706-53d7b5b0-7add-4269-9599-f50ceb6993b6.png)
 
+copyright The Complete JavaScript Course 2022: From Zero to Expert! by Jonas Schmedtmann
