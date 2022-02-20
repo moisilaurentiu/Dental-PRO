@@ -1,5 +1,5 @@
 # Dental-PRO
- - Dentist-PRO is a straightforward website for a dental practice. I utilized a minimalist design with features such as smooth scrolling, slow loading images, and a slider.
+ - Dental-PRO is a straightforward website for a dental practice. I utilized a minimalist design with features such as smooth scrolling, slow loading images, and a slider.
 This website is built with pure vanilla JavaScript along with HTML and CSS.
 
 ![image](https://user-images.githubusercontent.com/94526883/153756657-044182ad-66e9-4dcc-bad1-06f1a35d0ed8.png)
